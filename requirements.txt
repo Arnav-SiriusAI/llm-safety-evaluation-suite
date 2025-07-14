@@ -1,1 +1,21 @@
-datasets\ngoogle-generativeai\nopenai\nanthropic\npandas
+To run the ToxiGen test, you need to add the libraries for toxicity scoring and Hugging Face authentication.
+
+Here is the complete, updated content for your requirements.txt file:
+
+# Core libraries
+pandas
+numpy
+tqdm
+
+# Dataset and Hub access
+datasets
+huggingface_hub
+
+# LLM provider SDKs
+google-generativeai
+openai
+anthropic
+
+# Toxicity scoring
+detoxify
+torch
