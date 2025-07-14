@@ -1,0 +1,1 @@
+{\n  "active_provider": "gemini",\n  "providers": {\n    "gemini": {\n      "api_key_secret": "GOOGLE_API_KEY",\n      "model": "gemini-1.5-flash"\n    },\n    "openai": {\n      "api_key_secret": "OPENAI_API_KEY",\n      "model": "gpt-4o-mini"\n    },\n    "anthropic": {\n      "api_key_secret": "ANTHROPIC_API_KEY",\n      "model": "claude-3-haiku-20240307"\n    }\n  }\n}
