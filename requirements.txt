@@ -1,4 +1,4 @@
-To run the ToxiGen test, you need to add the libraries for toxicity scoring and Hugging Face authentication.
+To run the all the tests, you need to add the libraries for toxicity scoring and Hugging Face authentication.
 
 Here is the complete, updated content for your requirements.txt file:
 
